@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseAuthApp</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">login</string>
+    <string name="or">Or</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">sign out</string>
+    <string name="change_password">Change Password</string>
+    <string name="enter_old_password">Enter Old Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+</resources>
